@@ -1,9 +1,9 @@
 
 '''
 ==========================================================================
-This Python program takes a series of data and calculates the standard deviation.
-I made this for my metrology class so I didn't have to always calculate the standard
-deviation by hand.
+This Python program takes a series of data and calculates the standard
+deviation. I made this for my metrology class so I didn't have to always
+calculate the standard deviation by hand.
 ==========================================================================
 Riley Kay
 github.com/SpecialKCereal
