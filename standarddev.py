@@ -1,3 +1,16 @@
+
+'''
+This Python program takes a series of data and calculates the standard deviation.
+I made this for my metrology class so I didn't have to always calculate the standard
+deviation by hand.
+
+Riley L. Kay
+Date Created: February 15, 2023
+Date Modified: February 16, 2023
+
+'''
+
+
 data_str = []
 data_flt = []
 
@@ -33,4 +46,4 @@ for number in data_flt:
 
 stdev = (1/length)*(summation_stdev)**(1/2)
 
-print("The uncertainty in the data is", stdev)
+print("The standard deviation is", stdev)
